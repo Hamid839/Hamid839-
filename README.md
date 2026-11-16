@@ -2,10 +2,10 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Frontend+%26+Full+Stack+Developer;React+%7C+Next.js+%7C+TypeScript;Building+Practical+Web+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=Information+Technology+Student;Frontend+%26+Full+Stack+Developer;React+%7C+Next.js+%7C+TypeScript;Building+Practical+Web+Apps" alt="Typing SVG" />
 
   <p>
-    <strong>CS Student • Frontend & Full Stack Web Developer</strong><br>
+    <strong>IT Student • Frontend & Full Stack Web Developer</strong><br>
     React • Next.js • JavaScript • TypeScript • MERN • AI-Assisted Development
   </p>
 
